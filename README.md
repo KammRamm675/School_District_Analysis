@@ -18,7 +18,7 @@
   
   ### How Does Replacing the Ninth Grade Math/Reading Scores Affect Thomas High School's Performance in Relation to the Other Schools?
   
-  - Please reference "Scores with THS 9Th Grade." (PLACE ADDRESS HERE) Replacing the 9th grade scores affected the percentages GREATLY.  Looking at the picture provided we can see that including the 9th grade scores for math would drop the % Passing Math column by about 10.25%! Reading would also drop about 14%! 
+  - Please reference "Scores with THS 9Th Grade." (https://github.com/KammRamm675/School_District_Analysis/blob/main/Scores%20with%20THS%209Th%20Grade.PNG) Replacing the 9th grade scores affected the percentages GREATLY.  Looking at the picture provided we can see that including the 9th grade scores for math would drop the % Passing Math column by about 10.25%! Reading would also drop about 14%! 
   
   ### What is Affected by Replacing Ninth-Grade Scores with NaN?
   
